@@ -9,7 +9,7 @@ This is a nodejs based crawler that will crawl instagram data **based on hashtag
 ### Pre-requisite
 - Have a hashtag to crawl in mind
 - Have access_token from instagram developer which is not in sandbox mode
-- No access control to your mongo
+- No access control to your mongo (Can be accessed without password)
 
 ### Installation and usage
 - Install dependencies
