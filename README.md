@@ -1,6 +1,6 @@
 # instacrawler-mongo
 
-This is a nodejs based crawler that will crawl instagram data based on hashtag to locally installed mongodb. Please use this for educational purpose only. Access token of instagram must be obtained, and **not in sandbox** mode. For more information, please refer to https://www.instagram.com/developer/
+This is a nodejs based crawler that will crawl instagram data **based on hashtag** to locally installed mongodb. Please use this for educational purpose only. Access token of instagram must be obtained, and **NOT in sandbox** mode. For more information, please refer to https://www.instagram.com/developer/
 
 ### Requirement
 - Make sure `mongodb` is installed
